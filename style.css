@@ -31,5 +31,9 @@ header{
     align-items: center;
     justify-content: center;
     padding: 0px 60px;
-    background-image: url(/assets/Section.png);
+    background-image: url(/assets/Section.png); 
+}
+.jumbotron h1{
+    font-size: 56px;
+    font-weight: 400px;
 }
